@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Vegetables",
+        "price": "100",
+        "description": "Fresh vegetable from farm",
+        "ratings": 5,
+        "images": [
+            {
+                "public_id": "products/about_1_tc9vcg",
+                "url": "https://res.cloudinary.com/codeshop/image/upload/v1610544866/about_jw1oey.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "Garai & Co",
+        "stock": 50,
+        "numOfReviews": 35,
+        "reviews": [],
+        "cerateAt": "2020-01-13T20:04:10Z"
+    },
+    {
+        "name": "VegetablesNew",
+        "price": "50",
+        "description": "Fresh vegetable from farm",
+        "ratings": 5,
+        "images": [
+            {
+                "public_id": "products/about_1_tc9vcg",
+                "url": "https://res.cloudinary.com/codeshop/image/upload/v1610544866/about_jw1oey.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "Garai & Co",
+        "stock": 50,
+        "numOfReviews": 35,
+        "reviews": [],
+        "cerateAt": "2020-01-13T20:04:10Z"
+    }
+]
